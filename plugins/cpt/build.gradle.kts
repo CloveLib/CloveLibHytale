@@ -5,7 +5,7 @@ plugins {
 
 group = "win.clovelib.cpt"
 version = "1.0.0"
-description = "ClovesPluralTale - Core Hytale plugin"
+description = "ClovesPluralTale"
 
 repositories {
     mavenCentral()

@@ -52,4 +52,5 @@ jobs:
           curseforge_api_key: ${{ secrets.CURSEFORGE_API_KEY }}
           orbis_api_key: ${{ secrets.ORBIS_API_KEY }}
           modtale_api_key: ${{ secrets.MODTALE_API_KEY }}
+          unifiedhytale_api_key: ${{ secrets.UNIFIEDHYTALE_API_KEY }}
           discord_webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
