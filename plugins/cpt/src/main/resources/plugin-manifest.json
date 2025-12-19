@@ -1,0 +1,11 @@
+{
+  "Group": "CloveLibStudios",
+  "Name": "ClovesPluralTale",
+  "Version": "$version",
+  "Website": "https://www.clovelib.win/docs/cpt",
+  "Main": "win.clovelib.cpt.ClovesPluralTalePlugin",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:I18nModule": "*"
+  }
+}
