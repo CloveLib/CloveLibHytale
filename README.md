@@ -25,8 +25,8 @@ Minecraft server plugins built on the CloveLib API framework.
 
 ## Contributors
 
-<a href="https://github.com/CloveLib/CloveLibPlugins/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CloveLib/CloveLibPlugins" />
+<a href="https://github.com/CloveLib/CloveLibHytale/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CloveLib/CloveLibHytale" />
 </a>
 
 ## License
