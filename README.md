@@ -2,7 +2,7 @@
 
 Minecraft server plugins built on the CloveLib API framework.
 
-[![Deploy ClovePluralTale](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-clovepluraltale.yml/badge.svg)](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-clovepluraltale.yml)
+[![Deploy ClovePluralTale](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-cpt.yml/badge.svg)](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-cpt.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/clovelib/clovelibhytale/badge)](https://www.codefactor.io/repository/github/clovelib/clovelibhytale)
 
 ## Plugins
