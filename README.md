@@ -3,7 +3,12 @@
 Minecraft server plugins built on the CloveLib API framework.
 
 [![Deploy ClovePluralTale](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-cpt.yml/badge.svg)](https://github.com/CloveLib/CloveLibHytale/actions/workflows/build-cpt.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/clovelib/clovelibhytale/badge)](https://www.codefactor.io/repository/github/clovelib/clovelibhytale)
+
+## FancySpaces Stats
+[![ClovesPluralTale](https://fancyspaces.net/api/v1/badges/downloads?space_id=cpp)](https://fancyspaces.net/spaces/cpp)
+[![ClovesPluralTale](https://fancyspaces.net/api/v1/badges/latest-version?space_id=cpp)](https://fancyspaces.net/spaces/cpp)
+
+## Picanik Stats
 [![ClovesPluralTale](https://www.unifiedhytale.com/api/badge/project/clovespluraltale)](https://www.unifiedhytale.com/project/clovespluraltale)
 [![ClovesPluralTale](https://www.unifiedhytale.com/api/badge/project/clovespluraltale?label=likes)](https://www.unifiedhytale.com/project/clovespluraltale)
 
